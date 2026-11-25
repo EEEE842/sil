@@ -1,4 +1,4 @@
 # sil
 sfgadagegrarg
 
-https://raw.githubusercontent.com/EEEE842/sil/affb30ee2690fd695b68e10da9043943dbf4ee5d/silas.sb3
+https://raw.githubusercontent.com/EEEE842/sil/7bec31a9e0ca9db943b40c8b786463025fa5b4d9/silas.sb3
